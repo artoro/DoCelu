@@ -1,0 +1,142 @@
+AGH 2910 1846
+Awf 3860 1632 4 5
+Balicka Wiadukt 2479 1505 4 8
+Batorego 2977 1786 4 8
+Ba³uckiego 2939 2127
+Bia³ucha 3597 1757 4 5
+Bieñczycka 4154 1576 -1 1 5
+Bie¿anowska 3654 2643 3 6
+Biprostal 2804 1665 4 8
+Bratys³awska 3033 1453 3 5
+Brodowicza 3380 1735
+Bronowice 2614 1574 4 8
+Bronowice Ma³e 2379 1489 4 8
+Centralna 4034 1722 -1 1
+Centrum Kongresowe ICE 3008 2142
+Chopina 2826 1774
+Cichy K¹cik 2643 1869
+Cienista 4361 1396 -1 1 5
+Cmentarz Podgórski 3433 2334 3 6
+Cmentarz Rakowicki 3323 1645 2
+Cmentarz Rakowicki Zachód 3203 1601
+Cracovia 2927 1933
+Cracovia B³onia 2880 1943
+Cracovia Stadion 2896 1953
+Cystersów 3492 1786 4 5
+Czarnowiejska 2893 1793
+Czy¿yny 4023 1632 4 5
+Dajwór 3248 2101
+Darwina 4610 1293 -1 1 4 5
+Dauna 3599 2728 6
+Dworcowa 3507 2441 3 6
+Dworzec G³ówny 3177 1831 2 3 4
+Dworzec G³ówny Tunel 3206 1750 5
+Dworzec G³ówny Wschód 3236 1737
+Dworzec G³ówny Zachód 3179 1773 3
+Dworzec Towarowy 3121 1593 3 5
+D¹bie 3617 1893 -1 1
+Elektromonta¿ 4693 1345 4
+Fabryczna 3505 1907 -1 1
+Filharmonia 3031 1939 -1 1 2 8 6
+Francesco Nullo 3462 1911 -1 1
+Grottgera 2984 1685
+G³owackiego 2677 1613 4 8
+Hala Targowa 3237 1941 -1 1
+Instytut Reumatologii 2792 1965
+Jarzêbiny 4637 1264 -1 1 4 5
+Jubilat 2955 2006 -1 1 2 6
+Kabel 3582 2554 3 6
+Kawiory 2777 1759
+Kombinat 4705 1515 4
+Komorowskiego 2888 2050 -1 1 2 6
+Konopnickiej 2984 2065
+Korona 3204 2236 8 6
+Kraków Centrum 3216 1955
+Kraków G³ówny 3215 1764
+Kraków Zab³ocie 3339 2151
+Krowoderska 2974 1643
+Krowodrza Górka 2998 1356 3 5
+Kurdwanów 3253 2823 6
+Limanowskiego 3315 2205 6
+Lubicz 3259 1814 2 4
+M1 Al. Pokoju 3841 1800 -1 1
+MIM 3209 2115
+Miasteczko Studenckie AGH 2676 1730
+Miechowska 2795 1810
+Miodowa 3227 2047 3
+Most Kotlarski 3394 2091
+Muzeum Armii Krajowej 3225 1690
+Muzeum Lotnictwa 3751 1644 4 5
+M³odej Polski 2634 1681
+Narzymskiego 3443 1641
+Nowos¹decka 3439 2825 6
+Nowowiejska 2843 1652
+Nowy Bie¿anów 4181 2787 3
+Nowy Kleparz 3063 1649
+Nowy Prokocim 4044 2771 3
+Ofiar D¹bia 3570 1921 -1 1
+Oleandry 2870 1926
+Orzeszkowej 3100 2102
+Os.Kolorowe 4242 1661 4
+Park Jordana 2813 1914
+Piaski Nowe 3524 2788 6
+Plac Aksentowicza 2917 1689
+Plac Bohaterów Getta 3309 2175 3
+Plac Centralny im. R.Reagana 4348 1670 4
+Plac Inwalidów 2941 1738 4 8
+Plac Wolnica 3164 2158 8 6
+Plac Wszystkich Œwiêtych 3092 1935 -1 1 8 6
+Plaza 3680 1848 -1 1
+Poczta G³ówna 3145 1924 -1 1 3
+Politechnika 3174 1702 3 5
+Powstañców Wielkopolskich 3391 2272 3 6
+Praska 2872 2123
+Prokocim 3769 2746 3
+Prokocim Szpital 3876 2812 3
+Przegon 2672 1993
+Pêdzichów 3079 1724
+Rakowicka 3299 1695 2
+Reymana 2750 1899
+Rondo 308. Dywizjonu 3939 1769 -1 1
+Rondo Czy¿yñskie 4096 1642 -1 1 4 5
+Rondo Grzegórzeckie 3355 1962 -1 1
+Rondo Kocmyrzowskie im. Ks. Gorzelanego 4218 1520 -1 1 5
+Rondo Matecznego 3125 2378 8
+Rondo Mogilskie 3355 1803 4 5
+Rynek 3082 1885
+Rynek Dêbnicki 2949 2085
+Rzemieœlnicza 3100 2454 8
+Salwator_1 2795 2064 -1 1 2 6
+Salwator_2 2832 2066 -1 1 2 6
+Smolki 3158 2279 8
+Starowiœlna 3187 1979 -1 1 3
+Stary Kleparz 3100 1790 2 4
+Stella-Sawickiego 3926 1623 4 5
+Stradom 3145 2067 8 6
+Struga 4468 1613 4
+Szpital Narutowicza 3083 1505 3 5
+Tauron Arena Kraków Wieczysta 3660 1687 4 5
+Tauron Arena Kraków al. Pokoju 3739 1825 -1 1
+Teatr Bagatela 3023 1853 2 4 8
+Teatr Ludowy 4289 1459 -1 1 5
+Teatr Variete 3401 1937 -1 1
+Teligi 3979 2764 3
+Uniwersytet Ekonomiczny 3273 1754 2
+Uniwersytet Jagielloñski 2998 1914
+Uniwersytet Pedagogiczny 2737 1644 4 8
+Urzêdnicza 2856 1689 4 8
+WKS Wawel 2694 1624
+Wawel 3110 2031 8 6
+Wañkowicza 4477 1366 -1 1 5
+Wesele 2575 1552 4 8
+Wiadukty 4584 1335 -1 1 4 5
+Witosa 3333 2848 6
+Wlotowa 3730 2712 3
+Wroc³awska 2952 1588
+Wzgórza Krzes³awickie 4689 1203 -1 1 4 5
+Zab³ocie 3431 2111
+Zajezdnia Nowa Huta 4700 1442 4
+Æwikliñskiej 4130 2771 3
+£ukasiewicza 3437 1614
+Œw. Gertrudy 3125 1951 8 6
+Œw. Wawrzyñca 3253 2084 3
